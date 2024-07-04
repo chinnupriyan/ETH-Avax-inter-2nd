@@ -73,5 +73,5 @@ This template is designed to be flexible and extendable for building your own Et
 
 - Ensure Node.js and npm are installed on your computer before starting.
 - For interacting with Ethereum wallets in the browser, the MetaMask extension should be installed.
-- HARANMS22
--METACRAFTERS ID:-haran321
+- chinuupriyan
+-METACRAFTERS ID:-chinnu
